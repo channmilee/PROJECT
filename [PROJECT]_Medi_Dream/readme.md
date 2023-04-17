@@ -43,16 +43,16 @@
 ---
   
   
-### :star2: 알약 이미지 전처리 연습
+### :star2: [알약 이미지 전처리 연습](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Medi_Dream/%EC%95%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%A0%84%EC%B2%98%EB%A6%AC_%EC%97%B0%EC%8A%B5.ipynb)
  
 
-### :star2: 알약 이미지 배경 제거
+### :star2: [알약 이미지 배경 제거](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Medi_Dream/%EC%95%BD_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%B0%B0%EA%B2%BD%EC%A0%9C%EA%B1%B0.ipynb)
 
 
-### :star2: 알약 글자 추출
+### :star2: [알약 글자 추출](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Medi_Dream/%EC%95%BD_%EA%B8%80%EC%9E%90_%EC%B6%94%EC%B6%9C.ipynb)
 
 
-### :star2: ResNet50V 모델
+### :star2: [ResNet50V 모델](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Medi_Dream/ResNet50V%20%EB%AA%A8%EB%8D%B8.ipynb)
 
 
-### :star2: CNN 모델
+### :star2: [CNN 모델](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Medi_Dream/CNN%20%EB%AA%A8%EB%8D%B8.ipynb)
