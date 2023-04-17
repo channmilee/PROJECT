@@ -36,13 +36,13 @@ Macro F1 Score 0.68639
 ---
   
   
-### :star2: EDA
+### :star2: [EDA](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Smart%20Factory_online/LGAimers_EDA.ipynb)
  
 
-### :star2: 결측치 대체 시도 정리
+### :star2: [결측치 대체 방법 정리](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Smart%20Factory_online/LGAimers_%EA%B2%B0%EC%B8%A1%EC%B9%98_%EB%8C%80%EC%B2%B4_%EB%B0%A9%EB%B2%95.ipynb)
 
 
-### :star2: Model
+### :star2: [Model](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Smart%20Factory_online/LGAimers_%EC%B5%9C%EC%A2%85%20%EC%BD%94%EB%93%9C.ipynb)
 
 
-### :star2: 그 외 시도
+### :star2: [그 외 시도_Y_Quality](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Smart%20Factory_online/LGAimers_YQuality.ipynb)
