@@ -33,5 +33,5 @@
 ---
   
   
-### :star2: EDA
+### :star2: [EDA](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Seoul_Senior/Seoul_Senior_EDA.ipynb)
  
