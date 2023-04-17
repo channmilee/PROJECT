@@ -1,5 +1,5 @@
-# PROJECT_Smart Factory_online
-## 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤
+# PROJECT_Smart Factory_offline
+## 스마트 공장 제품 품질 상태 분류 AI 오프라인 해커톤
   
   
 ---
@@ -34,9 +34,9 @@ Macro F1 Score 0.66538
 ---
   
   
-### :star2: EDA
+### :star2: [EDA](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Smart_Factory_offline/LGAimers_offline_EDA.ipynb)
  
 
-### :star2: Model
+### :star2: [Model](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Smart_Factory_offline/LGAimers_offline_%EC%B5%9C%EC%A2%85%20%EC%BD%94%EB%93%9C.ipynb)
 
 
