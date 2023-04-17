@@ -40,4 +40,4 @@ Macro F1 Score 0.98116
 ---
   
 
-### :star2: Model
+### :star2: [Model](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_genom_classification/genom.ipynb)
