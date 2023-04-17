@@ -34,11 +34,11 @@ B사 데이터 웹 크롤링
 ---
   
   
-### :star2: EDA
+### :star2: [EDA](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Used_Car/Used%20car_EDA.ipynb)
   
 
-### :star2: 데이터 전처리
+### :star2: [데이터 전처리](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Used_Car/used_car_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 
 
-### :star2: Mode (노이즈 제거 모델)
+### :star2: Mode [노이즈 제거 모델](https://github.com/channmilee/PROJECT/blob/master/%5BPROJECT%5D_Used_Car/used_car%20(%EB%85%B8%EC%9D%B4%EC%A6%88%20%EC%A0%9C%EA%B1%B0%20%EB%AA%A8%EB%8D%B8).ipynb)
 
